@@ -64,13 +64,6 @@ class aboutMe:
 <div align="center">
 
 
-#### ... or leave a comment ([💌 here](https://github.com/VictorCallegari/VictorCallegari/issues/1#issuecomment-new))
-
-<!-- Guestbook -->
-| Name | Date | Message |
-|---|---|---|
-<!-- /Guestbook -->
-
 </div>
 <br><br>
 
