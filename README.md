@@ -69,9 +69,6 @@ class aboutMe:
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
-| <a href="https://github.com/VictorCallegari"><img width="24" src="[(https://avatars.githubusercontent.com/u/103325342?v=4)]" alt="VictorCallegari" /> VictorCallegari</a> |10/30/2023, 9:15:25 PM|I'm happy to see my guestbook is spreading.<br /><br />Awesome Idea! Thanks a lot for let me use 😁😁|
-| <a href="https://github.com/openscript"><img width="24" src="[(https://avatars.githubusercontent.com/u/103325342?v=4)]" alt="openscript" /> openscript</a> |10/30/2023, 9:28:28 AM|I'm happy to see my guestbook is spreading.|
-| <a href="https://github.com/VictorCallegari"><img width="24" src="[(https://avatars.githubusercontent.com/u/103325342?v=4)]" alt="VictorCallegari" /> VictorCallegari</a> |10/30/2023, 11:46:59 PM|Oh yeah!!|
 <!-- /Guestbook -->
 
 </div>
